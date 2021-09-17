@@ -1,4 +1,4 @@
-@Library('library-test@master') _
+@Library('test-library@master') _
 deliveryPipeline(
   text: "SAY HELLO TO MY LITTLE FRIEND!"
 )
