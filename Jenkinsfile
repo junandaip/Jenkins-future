@@ -38,6 +38,6 @@
 
 @Library('test-library@master') _
 deliveryPipeline(
-  text: "SAY HELLO TO MY LITTLE FRIEND!"
-//   agentName: masterworker
+  text: "SAY HELLO TO MY LITTLE FRIEND!",
+  agentName: masterworker
 )
